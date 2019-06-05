@@ -1,12 +1,12 @@
 name: bokeh-notebooks
 dependencies:
   - python
-  - bokeh=0.12.2
+  - bokeh=1.2.0
   - pandas
   - jupyter
   - nodejs
   - ipywidgets
   - numpy
   - statsmodels
-  - param
-  - panel
+  - param==1.9.1
+  - panel==0.5.1
